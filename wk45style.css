@@ -1,0 +1,52 @@
+
+
+body{
+    background-image: url(https://5.imimg.com/data5/RC/EM/HH/SELLER-5709081/aad442299e94f3cbafb83081f8de9bf9-500x500.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.wrapper{
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -5%);
+    background: orangered;
+    text-align: center;
+    border-radius: 10px 50px;
+}
+.wrapper h2{
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10%;
+    color: gold;
+}
+input[type="text"]{
+    height: 40px;
+    font-size: 24px;
+    border-radius: 15px;
+}
+button{
+    background: orangered;
+    border: none;
+    color: gold;
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+input[type="radio"]{
+    width: 20px;
+    height: 20px;
+}
+button{
+    font-size: 36px;
+}
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 72px;
+}
